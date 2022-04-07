@@ -1,5 +1,5 @@
 # Hi there👋
-我们是[北京在线途游科技有限公司](http://www.tuyoogame.com/)旗下工作室**focus-creative-games**!  
+我们是工作室**focus-creative-games**!  
 
 我们专注于贡献游戏行业的深度技术解决方案，致力于让游戏开发变得简单、可靠、正常，为更多的游戏创意铺路! 
    
